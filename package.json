@@ -1,0 +1,25 @@
+{
+  "name": "Friend-Finder",
+  "version": "1.0.0",
+  "description": "Friend-Finder is a dating app that utilizes node and express servers that take in results from users' surveys and then compare their answers with those from other users. The app will then display the name and picture of another user with the best overall match.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1alexamartinez/Friend-Finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1alexamartinez/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/1alexamartinez/Friend-Finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
